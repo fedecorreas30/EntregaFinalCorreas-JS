@@ -1,0 +1,37 @@
+[
+    {
+        "nombre":"Camiseta Titular",
+        "precio":5000,
+        "descripcion":"Camiseta Titular Plantel 2023",
+        "genero":"Camiseta",
+        "id":1
+    },
+    {
+        "nombre":"Camiseta Arquero Plantel 2023",
+        "precio":4000,
+        "descripcion":"Camiseta Titular Arquero 2023",
+        "genero":"Camiseta",
+        "id":2
+    },
+    {
+        "nombre":"Buzo Plantel 2022",
+        "precio":4000,
+        "descripcion":"Buzo Temporada 2022",
+        "genero":"Buzo",
+        "id":3
+    },
+    {
+        "nombre":"Pantalon Suplente 2023",
+        "precio":2500,
+        "descripcion":"Pantalon Suplente Suplente",
+        "genero":"Pantalon",
+        "id":4
+    },
+    {
+        "nombre":"Pantalon Titular 2023",
+        "precio":3000,
+        "descripcion":"Pantalon Corto Suplente",
+        "genero":"Pantalon",
+        "id":5
+    }
+]
